@@ -17,17 +17,17 @@ Solution
 
 
 Features
-•   Login:
-        User   can   login   with   two   predefined   credentials.
-•   Upload:
-        User   can   upload   images   of   his   choice.
-•   Download:
-        User   can   download   the   image   of   his   choice.
-•   Delete:
-        User   can   delete   the   image   of   his   choice.
-•   Modify:
-      User   can   upload   images   of   his   choice   where   he   can   modify   the   description   and   image. •   Logout:
-      User   can   logout
+•   Login:<br>
+        User   can   login   with   two   predefined   credentials.<br>
+•   Upload:<br>
+        User   can   upload   images   of   his   choice.<br>
+•   Download:<br>
+        User   can   download   the   image   of   his   choice.<br>
+•   Delete:<br>
+        User   can   delete   the   image   of   his   choice.<br>
+•   Modify:<br>
+      User   can   upload   images   of   his   choice   where   he   can   modify   the   description   and   image.<br> •   Logout:<br>
+      User   can   logout<br>
 
 
 
