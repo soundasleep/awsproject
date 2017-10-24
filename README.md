@@ -35,18 +35,19 @@ Prerequisites
 
 AWSComponents
 
-EC2
-ELB
-Lambda
-AutoScaling Group
-Single AZ RDS
-CloudFront
-S3
-S3 Transfer Acceleration
-R53
-CloudWatch
-SNS
-AWS SDK
+EC2<br>
+ELB<br>
+Lambda<br>
+AutoScaling Group<br>
+Single AZ RDS<br>
+CloudFront<br>
+S3<br>
+S3 Transfer Acceleration<br>
+R53<br>
+CloudWatch<br>
+SNS<br>
+AWS SDK<br>
+
 LocalSetup
 
 Tools that need to be installed in local environment
@@ -80,9 +81,9 @@ You can run the application using the following maven command
     
 Profile
 
-University Name: http://www.sjsu.edu/
-Course: Cloud Technologies
-Professor Sanjay Garje
-ISA: Divyankitha Urs
-Student: Ravi Shanker katta.
-LinkedIn:www.linkedin.com/in/ravi-shanker-katta
+University Name: http://www.sjsu.edu/<br>
+Course: Cloud Technologies<br>
+Professor Sanjay Garje<br>
+ISA: Divyankitha Urs<br>
+Student: Ravi Shanker katta.<br>
+LinkedIn: www.linkedin.com/in/ravi-shanker-katta
