@@ -20,13 +20,13 @@ Features
 •   Login:<br>
         User   can   login   with   two   predefined   credentials.<br>
 •   Upload:<br>
-        User   can   upload   images   of   his   choice.<br>
+        User   can   upload   images   of   their   choice.<br>
 •   Download:<br>
-        User   can   download   the   image   of   his   choice.<br>
+        User   can   download   the   image   of   their   choice.<br>
 •   Delete:<br>
-        User   can   delete   the   image   of   his   choice.<br>
+        User   can   delete   the   image   of   their   choice.<br>
 •   Modify:<br>
-      User   can   upload   images   of   his   choice   where   he   can   modify   the   description   and   image.<br> •   Logout:<br>
+      User   can   upload   images   of   their   choice   where   he   can   modify   the   description   and   image.<br> •   Logout:<br>
       User   can   logout<br>
 
 
